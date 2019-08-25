@@ -6,7 +6,7 @@
 ## Number and arithmetic in Python
 
 | Operator |	Name |	Description |
-------------------------------------
+|----------|-------|--------------|
 | a + b	| Addition |	Sum of a and b |
 | a - b |	Subtraction	| Difference of a and b |
 | a * b	| Multiplication |	Product of a and b |
